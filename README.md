@@ -1,2 +1,2 @@
 # SSL
-compilador: C/C++: gcc.exe (mingw-w64)
+Este es el repositorio publico de Luciano Lopez
